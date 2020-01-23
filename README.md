@@ -1,6 +1,6 @@
 # Create Secure Batch ML Pipelines
 
-![Architecture](https://github.com/jomit/secure-ml-platform/blob/master/images/architecture.png)
+![Architecture](https://github.com/jomit/SecureAzureMLWorkshop/blob/master/images/architecture.png)
 
 ### Prerequisites
 
